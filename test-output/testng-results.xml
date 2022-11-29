@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-28T21:29:57 IST" name="Default suite" finished-at="2022-11-28T21:31:21 IST" duration-ms="84557">
+    <groups>
+    </groups>
+    <test started-at="2022-11-28T21:29:57 IST" name="Default test" finished-at="2022-11-28T21:31:21 IST" duration-ms="84557">
+      <class name="pack1.PoprItemsTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:pack1.PoprItemsTest@7d0b7e3c]" started-at="2022-11-28T21:29:57 IST" name="setup" finished-at="2022-11-28T21:29:58 IST" duration-ms="712" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="launcbrowser()[pri:0, instance:pack1.PoprItemsTest@7d0b7e3c]" started-at="2022-11-28T21:29:58 IST" name="launcbrowser" finished-at="2022-11-28T21:30:05 IST" duration-ms="7861" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launcbrowser -->
+        <test-method signature="laptoptest()[pri:0, instance:pack1.PoprItemsTest@7d0b7e3c]" started-at="2022-11-28T21:30:05 IST" name="laptoptest" finished-at="2022-11-28T21:30:28 IST" duration-ms="23058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- laptoptest -->
+        <test-method is-config="true" signature="closeb()[pri:0, instance:pack1.PoprItemsTest@7d0b7e3c]" started-at="2022-11-28T21:30:28 IST" name="closeb" finished-at="2022-11-28T21:30:30 IST" duration-ms="1169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeb -->
+        <test-method is-config="true" signature="launcbrowser()[pri:0, instance:pack1.PoprItemsTest@7d0b7e3c]" started-at="2022-11-28T21:30:30 IST" name="launcbrowser" finished-at="2022-11-28T21:30:34 IST" duration-ms="4253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launcbrowser -->
+        <test-method signature="spktest()[pri:0, instance:pack1.PoprItemsTest@7d0b7e3c]" started-at="2022-11-28T21:30:34 IST" name="spktest" finished-at="2022-11-28T21:30:55 IST" duration-ms="21131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- spktest -->
+        <test-method is-config="true" signature="closeb()[pri:0, instance:pack1.PoprItemsTest@7d0b7e3c]" started-at="2022-11-28T21:30:55 IST" name="closeb" finished-at="2022-11-28T21:30:55 IST" duration-ms="155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeb -->
+        <test-method is-config="true" signature="launcbrowser()[pri:0, instance:pack1.PoprItemsTest@7d0b7e3c]" started-at="2022-11-28T21:30:55 IST" name="launcbrowser" finished-at="2022-11-28T21:31:00 IST" duration-ms="4827" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launcbrowser -->
+        <test-method signature="tabtest()[pri:0, instance:pack1.PoprItemsTest@7d0b7e3c]" started-at="2022-11-28T21:31:00 IST" name="tabtest" finished-at="2022-11-28T21:31:20 IST" duration-ms="20433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tabtest -->
+        <test-method is-config="true" signature="closeb()[pri:0, instance:pack1.PoprItemsTest@7d0b7e3c]" started-at="2022-11-28T21:31:20 IST" name="closeb" finished-at="2022-11-28T21:31:21 IST" duration-ms="325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeb -->
+        <test-method is-config="true" signature="tesend()[pri:0, instance:pack1.PoprItemsTest@7d0b7e3c]" started-at="2022-11-28T21:31:21 IST" name="tesend" finished-at="2022-11-28T21:31:21 IST" duration-ms="539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tesend -->
+      </class> <!-- pack1.PoprItemsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
